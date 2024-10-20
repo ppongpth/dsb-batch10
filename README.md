@@ -8,3 +8,6 @@ My data science and analytic projects
 3. R programming
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret 
+
+## Contact Me
+reach out to me at panthorn.eng@gmail.com
